@@ -9,8 +9,10 @@ An engineering simulation tool developed in MATLAB that calculates the absolute 
 * **Interactive Graphical User Interface (GUI):** Built using MATLAB App Designer with integrated dynamic plotting and read-only numerical displays.
 
 ## Visual Interface
+**App Interface Demo**
 ![App Interface Demo](app_demo.jpeg)
 
+**2D and 3D Simulation Plots**
 ![3D and 2D Simulation Plots](simulation_plots.jpeg)
 
 ## How It Works
