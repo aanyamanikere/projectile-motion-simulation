@@ -11,6 +11,7 @@ An engineering simulation tool developed in MATLAB that calculates the absolute 
 ## Visual Interface
 `app_demo.jpeg`
 ![App Interface Demo](app_demo.jpeg)
+
 `simulation_plots`
 ![3D and 2D Simulation Plots](simulation_plots.jpeg)
 
