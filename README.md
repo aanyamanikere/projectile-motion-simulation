@@ -9,7 +9,7 @@ An engineering simulation tool developed in MATLAB that calculates the absolute 
 * **Interactive Graphical User Interface (GUI):** Built using MATLAB App Designer with integrated dynamic plotting and read-only numerical displays.
 
 ## Visual Interface
-![App Interface Demo](app_demo.png)
+`app_demo.jpeg`
 
 ## How It Works
 The solver uses the projectile dynamics equations to calculate required velocities across a bounded search array (`linspace(1, 89, 2000)`). By checking the altitude directly above the obstacle wall coordinate: y_build = y0 + V_req * sin(alpha_rad) * t_build - 0.5 * g * (t_build^2).
