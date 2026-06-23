@@ -10,6 +10,8 @@ An engineering simulation tool developed in MATLAB that calculates the absolute 
 
 ## Visual Interface
 `app_demo.jpeg`
+`simulation_plots`
+![3D and 2D Simulation Plots](simulation_plots.jpeg)
 
 ## How It Works
 The solver uses the projectile dynamics equations to calculate required velocities across a bounded search array (`linspace(1, 89, 2000)`). By checking the altitude directly above the obstacle wall coordinate: y_build = y0 + V_req * sin(alpha_rad) * t_build - 0.5 * g * (t_build^2).
