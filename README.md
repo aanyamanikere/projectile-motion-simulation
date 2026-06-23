@@ -16,5 +16,5 @@ The solver uses the projectile dynamics equations to calculate required velociti
 The system filters out invalid paths, isolates the lowest velocity option, and maps the resulting coordinates directly onto the GUI.
 
 ## Files Included
-* `trajectory_optimizer_script.m`: Main code displaying side-by-side 2D and 3D subplots.
-* `trajectory_optimizer_app.mlapp`: Graphical-User Interactive Appliication.
+* `projectile_trajectory.m`: Main code displaying side-by-side 2D and 3D subplots.
+* `projectile_trajectory_app.mlapp`: Graphical-User Interactive Appliication.
